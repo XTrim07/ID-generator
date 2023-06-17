@@ -11,5 +11,5 @@ Generate its validity
 Generate the codes from the white strip  
 
 It is made just for fun.  
-IT'S NOT OFFICIAL.
+IT'S NOT OFFICIAL.  
 Peace✌️
