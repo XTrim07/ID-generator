@@ -2,7 +2,7 @@
 
 It is an id generator for Romania.
 It goes according to the current rules.
-At the moment it can generate the sex, cnp, year of birth, series and the code next to the picture.
+At the moment it can generate the sex, personal identification number, year of birth, series and the code next to the picture.
 Everything is randomly generated.
 
 It is made just for fun.
